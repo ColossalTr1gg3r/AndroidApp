@@ -1,7 +1,1 @@
-"# MobileAppDevelopment" 
-"# MobileAppDevelopment" 
-# AndroidAppDevelopment
-"# AndroidAppDevelopment" 
-"# AndroidAppDevelopment" 
-"# AndroidAppDevelopment" 
-"# AndroidApp" 
+Android Mobile Development
